@@ -1,0 +1,11 @@
+TestStudent:
+Score		Result
+11		False (Expect Error Message/ Actual 'A')
+10		True
+96		True
+8		True
+7		False (Expect 'B'/ Actual 'C')
+65		True
+5		False (Expect 'C'/ Actual 'D')
+35		True
+34		False (Expect 'E'/ Actual 'D')
